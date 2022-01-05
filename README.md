@@ -29,4 +29,4 @@ Using these techs at least once:
 | ------ | ------ |
 | Notion | www.notion.so/knottedearlgrey |
 | Email | cheezoo86@naver.com |
-| Project Portfolio |  |
+| Project Portfolio | https://github.com/knotted-earlgrey/final_Seolo |
