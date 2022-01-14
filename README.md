@@ -27,6 +27,6 @@ Using these techs at least once:
 
 | Link | URL |
 | ------ | ------ |
-| Notion | https://url.kr/izagop |
+| Study Notion | https://url.kr/izagop |
 | Email | cheezoo86@naver.com |
 | Project Portfolio | https://github.com/knotted-earlgrey/final_Seolo |
